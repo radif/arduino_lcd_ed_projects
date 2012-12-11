@@ -1,4 +1,4 @@
-arduino_lcd_ed_projects
+A Collection of educational projects for the Arduino and SainSmart 1602 LCD Keypad Shield
 =======================
 
-Examples of educational games for children using arduino and LCD (SainSmart 1602 LCD Keypad Shield)
+This is suitable for children between 6-10 years old. The projects teach children the math basics.
